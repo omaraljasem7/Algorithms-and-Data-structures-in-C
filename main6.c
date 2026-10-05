@@ -23,7 +23,12 @@ void printRectangle(struct  Rectangle r) {
 }
 // call by value will have in the method itself its own copy
 // call by address will modify the struct variable itself
-
+int getLength(struct Rectangle r) {
+    return r.length;
+}
+int getWidth(struct Rectangle r) {
+    return r.width;
+}
 int main () {
     struct  Rectangle r ;
 
