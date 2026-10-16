@@ -1,6 +1,6 @@
 ## Introduction into Algorithms and Data structures in C 
 
-## Here almost everything is covered 
+## Here almost every Topic is covered , For each Topic There is a Branch .
 
 - **Basics in C** 
 - **Recursion**
@@ -8,7 +8,7 @@
 - **Arrays as ADT**
 - **Strings**
 - **Matrices**
-- **LinkedLists**
+- **Linked Lists**
 - **Stack**
 - **Queue**
 - **Trees**
