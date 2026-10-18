@@ -1,0 +1,5 @@
+HELLO Omar
+Number = 42
+Another Line
+Test Test .....
+This is was appended with 'a' mode
